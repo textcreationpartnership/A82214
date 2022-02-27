@@ -1,0 +1,352 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Declaration of the present proceedings of the French, Danes, and the Hollanders, touching the King of Scots: and a new act and proclamation of the states, to all captains, masters, and officers of ships, throughout all harbours, haven-towns, and cinque-ports, within the dominion of the Netherlands: published by sound of trumpet, and beat of drum throughout the United Provinces, for all officers in general to yeeld obedience thereunto, upon pain of death. Together with their orders and instructions to Admiral De Wit. And a letter sent to the Parliament of England from the generals at sea, concerning the transaction, affairs, and engagement of the enemy. Subscribed, Robert Blake, Rich: Dean, Geo: Monck. Published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82214</idno>
+            <idno type="STC">Wing D740</idno>
+            <idno type="STC">Thomason E689_10</idno>
+            <idno type="STC">ESTC R206928</idno>
+            <idno type="EEBO-CITATION">99866016</idno>
+            <idno type="PROQUEST">99866016</idno>
+            <idno type="VID">166451</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82214)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166451)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 106:E689[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Declaration of the present proceedings of the French, Danes, and the Hollanders, touching the King of Scots: and a new act and proclamation of the states, to all captains, masters, and officers of ships, throughout all harbours, haven-towns, and cinque-ports, within the dominion of the Netherlands: published by sound of trumpet, and beat of drum throughout the United Provinces, for all officers in general to yeeld obedience thereunto, upon pain of death. Together with their orders and instructions to Admiral De Wit. And a letter sent to the Parliament of England from the generals at sea, concerning the transaction, affairs, and engagement of the enemy. Subscribed, Robert Blake, Rich: Dean, Geo: Monck. Published according to order.</title>
+                  <author>Blake, Robert, 1599-1657.</author>
+                  <author>Albemarle, George Monck, Duke of, 1608-1670.</author>
+                  <author>Deane, Richard, 1610-1653.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Alsop.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March. 4th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Netherlands --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166451:1" rendition="simple:additions"/>
+            <p>A
+DECLARATION
+OF
+The preſent Proceedings of the French, Danes, and
+the Hollanders, touching the
+King of Scots:</p>
+            <p>And the New Act and Proclamation of the States, to all
+Captains, Maſters, and Officers of ſhips, throughout all
+Harbours, Haven-Towns, and Cinque-Ports, within
+the Dominion of the Netherlands: Publiſhed
+by ſound of Trumpet, and beat of Drum
+throughout the United Provinces, for all
+Officers in general to yeeld Obedi<g ref="char:EOLhyphen"/>ence
+thereunto; Upon pain of
+Death.</p>
+            <p>Together with their Orders and Inſtructions to Ad<g ref="char:EOLhyphen"/>miral
+De Wit.</p>
+            <p>And a Letter ſent to the Parliament of England from the
+Generals at Sea, concerning the Tranſaction, Affairs,
+and Engagement of the Enemy.</p>
+            <p>
+               <hi>Subſcribed,</hi>
+Robert Blake, Rich: Dean,
+Geo: Monck.</p>
+            <p>Publiſhed according to Order.</p>
+            <p>LONDON: <hi>Printed by</hi> E. Alſop. 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:166451:2"/>
+            <pb n="3" facs="tcp:166451:2"/>
+            <head>A
+LETTER
+Sent
+To the Speaker of the Parliament of England, from the
+three Generals of the Engliſh Navy, touching the laſt
+great and bloudy Engagement between the two
+Fleets of England and Holland.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe 18 inſtant in the morning, being ſome five
+leagues diſtant from the Engliſh ſhore, we diſ<g ref="char:EOLhyphen"/>cryed
+the Dutch Fleet early in the morning, con<g ref="char:EOLhyphen"/>ſiſting
+(as we then judged, &amp; are ſince informed by ſome
+of their own number) of 80. all men of War, and ſome
+200 Merchant men, a league and an half to windward of
+the weathermoſt of our ſhips, and of moſt of the Fleet
+two or three leagues.</p>
+            <p>The ſhip Triumph, with the Fairfax, Speaker, and a<g ref="char:EOLhyphen"/>bout
+20 more, being neareſt unto them, the Dutch Ad<g ref="char:EOLhyphen"/>miral
+might probably (if he had pleaſed to have kept the
+wind) gone away with his whole Fleet, and we had not
+<pb n="4" facs="tcp:166451:3"/>
+been able to have reached him with our main body, onely
+with a few Frigots, our beſt ſaylors, which had not been
+likely to have done very much upon them; But the ſaid
+Admiral, ſo ſoon as he had diſcovered us, put all his Mer<g ref="char:EOLhyphen"/>chant
+men to windward, and ordered them to ſtay there
+(as ſome that we have taken have ſince informed us) and
+himſelf with his body of men of War, drew down upon
+us, that were the weathermoſt ſhips, where we were in a
+ſhort time engaged, and by reaſon the greateſt part of our
+ſhips were to Lee-ward, and much a ſtern, thoſe that
+were weathermoſt had a very ſharp conflict of it that
+whole day, till about 4 a clock in the afternoon, by
+which time a conſiderable number of our ſhips and Fri<g ref="char:EOLhyphen"/>gots
+had got ſo far a head, that by tacking they could
+weather the greateſt part of the Dutch Fleet, which ſo
+ſoon as the Dutch Admiral perceived, he tacked like<g ref="char:EOLhyphen"/>wiſe
+and thoſe with him, and left us: We ſpent the re<g ref="char:EOLhyphen"/>mainder
+of that day and night to man our ſelves out of
+the weaker ſhips, and to repair our Rigging, Maſts and
+Sails, without which we were not in a capacity to move
+in the Sea. We took and deſtroyed in this day 7 or 8
+men of War.</p>
+            <p>They had poſſeſſion of Captain Barker in the Proſpe<g ref="char:EOLhyphen"/>rous,
+Captain Bourn in the Aſſiſtance, the Oak and ſome
+other ſhips, but bleſſed be God we repoſſeſt them again,
+with the loſſe of ſome in the Aſſiſtance. The Leeward<g ref="char:EOLhyphen"/>moſt
+part of our ſhips continued fighting till night ſepa<g ref="char:EOLhyphen"/>rated,
+being engaged within two hours as ſoon as wee:
+We loſt the Sampſon whereof Captain Button was
+Commander, which was ſo much torn and unſervicea<g ref="char:EOLhyphen"/>ble,
+the Captain and many more wounded and ſlain, that
+we took out the men that were left, and let her ſink into
+the Sea. At night the Dutch Fleet and we kept as near
+one another as we could conveniently without mixing,
+<pb n="5" facs="tcp:166451:3"/>
+each of us having our lights abroad all night, the Wind
+Weſternly, and little Wind, they ſteered directly up the
+channel, their Merchant men a head, and men of War in
+the Rear; We were in the morning ſome three or four
+leagues to the Southward of the Iſle of Wight: As ſoon
+as it was day, we made what ſail we could after them,
+but being calm could not get up until noon, and our main
+body not until two of the Clock, by which time we drew
+very near each other, and had warm work while night
+parted us; We took and deſtroyed this day ſome five
+ſail of men of War: The Dutch Fleet ſteered up the
+Channel with their lights abroad, wee followed, the
+Wind at W. N. W. a fine little gale all night.</p>
+            <p>The 20 day about 9 a clock in the morning, we fell
+cloſe in with them with ſome 5 great ſhips, and all the
+Frigots of ſtrength, though very many others could not
+come up that day, and ſeeing their men of war ſomewhat
+weakned, we ſent ſmaller Frigots and ſhips of leſſe force,
+that could get up amongſt their Merchant-men, which
+put their whole body to a very great trouble, that many
+of them, and their men of war, began to break off from
+their main body, and towards the evening we preſſed ſo
+hard upon them, that they turned their Merchant men out
+of their Fleet upon us (as is conceived) for a bait, we
+gave ſtrict order that none of our ſhips that could get up
+to their men of war, and had force ſhould meddle with
+any Merchant men, but leave them to the Rear; we con<g ref="char:EOLhyphen"/>tinued
+ſtill fighting with them untill the dusk of the eve<g ref="char:EOLhyphen"/>ning,
+by which time we were ſome 3 leagues and a half of
+Blackneſſe in France, the wind at North-weſt, we ſteer<g ref="char:EOLhyphen"/>ing
+directly for the point of land, having the wind of the
+Dutch fleet, ſo that if it had pleaſed the Lord in his wiſe
+providence, who ſets bounds to the ſea, and over-rules the
+waies and actions of men, it had been but one 3 hours
+<pb n="6" facs="tcp:166451:4"/>
+longer to night, we had probably made an interpoſition
+between them and home, whereby they might have been
+to have made their way through us with their men of
+war, which at this time were not above 35 as we could
+count, the reſt being deſtroyed or diſperſed; The Mer<g ref="char:EOLhyphen"/>chant
+men alſo muſt have been neceſſitated to run aſhore,
+or fallen into our hands, which as we conceive the Dutch
+Admiral being ſenſible of, juſt as it was dark bore direct<g ref="char:EOLhyphen"/>ly
+in upon the ſhore, where as it is ſuppoſed he anchor<g ref="char:EOLhyphen"/>ed,
+the Tide of ebb being then come, which was a Lee<g ref="char:EOLhyphen"/>wardly
+Tide, we conſulted with our Pilots, and men
+knowing thoſe coaſts and parts, what it was poſſible for
+them to do, whoſe opinions were that he could not wea<g ref="char:EOLhyphen"/>ther
+the French ſhore, as the tide &amp; the wind was then, to
+get home, and that we muſt likewiſe anchor, or we could
+not be able to carry it about the Flats of Soam, where<g ref="char:EOLhyphen"/>upon
+we anchored, Blackneſſe being N. E, and by E. three
+leagues from us.</p>
+            <p>This night being very dark, and blowed hard, the
+Dutch got away from us, ſo that in the morning we could
+not diſcover one ſhip more then our own, which were be<g ref="char:EOLhyphen"/>twixt
+40 and 50 the reſt being ſcattered, and as many
+prizes as made up 60 in all; we ſpent all this night and
+day while 12 a clock, in fitting of our ſhips, maſts, and
+ſails, for we were not capable to ſtir till they were repai<g ref="char:EOLhyphen"/>ed,
+at which time being a windward tide, and the Dutch
+Fleet gone, we weighed, and ſtood over to the Engliſh
+ſhore, fearing to ſtay longer upon the coaſt being a Lee
+ſhore.</p>
+            <p>The 22 day in the morning we were fair by the Iſle of
+Wight, being the place whereunto we then thought fit
+to repair for accommodation, but the Wind blew ſo
+hard Nouthwardly, we could not get in that day.</p>
+            <p>The 23 day we weighed and got near the St. Ellens
+<pb n="7" facs="tcp:166451:4"/>
+Road, and ſent for all the Captains on board, to under<g ref="char:EOLhyphen"/>ſtand
+the ſtate of the fleet, but it blowing hard we could
+not accompliſh it, onely we commanded all the ſhips that
+were diſabled to turn into Stokes bay, and the reſt remai<g ref="char:EOLhyphen"/>ned
+about us.</p>
+            <p>The 24 day we ſent for all the Captains on board of
+this ſhip, and ordered out 2 ſquadrons, one to ply to the
+Eaſtward, the other to the Weſtward of the Iſle of
+Wight.</p>
+            <p>The laſt of which ſailed yeſterday being the 25 pre<g ref="char:EOLhyphen"/>ſent.
+It hath blown ſo hard, that we have ſcarce been a<g ref="char:EOLhyphen"/>ble
+to ſend our boats one from the other, or do any thing
+till this day that we got up to this place.</p>
+            <p>Thus you ſee how it hath pleaſed the Lord to deal
+with us, poor unworthy inſtruments imployed in this
+late tranſaction, wherein he hath delivered into our hands
+ſome 17 or 18 of their ſhips of war, which have been
+by your Fleet (without the loſſe of any one ſhip, ſave
+the Sampſon) taken and deſtroyed, beſides Merchant<g ref="char:EOLhyphen"/>men,
+whoſe number we know not, they being ſcattered
+to ſeveral Ports. We have many men wounded, and di<g ref="char:EOLhyphen"/>vers
+both of honeſty and worth ſlain.</p>
+            <closer>
+               <dateline>Aboard the Triumph
+<date>the 27. of Febr.
+1652.</date> in Stoke
+Bay.</dateline>
+               <signed>Subſcribed,
+<list>
+                     <item>Robert Blake,</item>
+                     <item>Rich. Dean.</item>
+                     <item>George Monk.</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Several of the Dutch are driven a ſhore in France, one
+without any men at all in her. Six Merchant ſhips are
+brought prize into Foy in Cornwal. A Liſt of 56 prizes
+are already brought into the Prize-Office.</p>
+               <p>The Parl ordered a Letter to be written to the Gene<g ref="char:EOLhyphen"/>rals
+and Commanders, with the Parliaments reſentment
+of their great and faithful ſervice in the late Engagement
+with the Dutch.</p>
+               <p>
+                  <pb n="8" facs="tcp:166451:5"/>
+On the 1 of this inſtant March, we received further
+advertiſements, that Sir John Evarſon one of the Dutch
+Admirals was ſlain in the late ingagement, and that de
+Ruttier is ſore wounded; moſt of the fleet that got off to
+Calice Road are extreamly rent and torn, both in their
+Maſts, Sails, &amp; Rigging, which the high States hearing of,
+forthwith ſet out their Placaert or Declaration, through<g ref="char:EOLhyphen"/>out
+all the Cinqueports in the united Provinces, expreſly
+charging and prohibiting all Captains, Maſters, and o<g ref="char:EOLhyphen"/>ther
+Officers, of all and every reſpective ſhip or veſſel,
+not to depart (upon pain of death) without licence from
+the General Councel, and thereupon immediately diſ<g ref="char:EOLhyphen"/>patched
+a meſſenger to De Witte, requiring him not to
+go forth to ſea with his fleet, without ſpecial orders from
+the States General; ſo that as yet he lies in the Tazel.</p>
+               <p>They talk high that the treaty between Holland and
+Denmark is concluded, and that a treaty is driven on in
+France, for a league alſo, wherein the intereſt of the King
+of Scots will likewiſe be included, which pleaſeth the O<g ref="char:EOLhyphen"/>renge
+party highly; for indeed they were alwaies very
+active to have him perſonally in the Netherlands, and are
+now in hopes to prevail with the Province of Holland, to
+unite in this Chimical deſign, becauſe the chief Obſtruct<g ref="char:EOLhyphen"/>er
+thereof, (the Lord Paw) is now dead.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
